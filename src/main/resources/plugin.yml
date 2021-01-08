@@ -1,0 +1,5 @@
+name: DatabaseAPI
+version: 1.0
+description: DatabaseAPI
+main: es.yellowzaki.databaseapi.DatabaseAPI
+api-version: 1.13
